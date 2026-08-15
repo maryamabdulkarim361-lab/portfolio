@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, ArrowUpRight, Github, Linkedin, Twitter } from "lucide-react";
+import { Mail, ArrowUpRight, Globe, Share2, MessageSquare } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -47,14 +47,14 @@ export default function Footer() {
 
         {/* Social Links */}
         <div className="flex items-center gap-4 text-white">
-          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="GitHub">
-            <Github size={16} />
+          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="Website">
+            <Globe size={16} />
           </a>
-          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="LinkedIn">
-            <Linkedin size={16} />
+          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="Network">
+            <Share2 size={16} />
           </a>
-          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="Twitter">
-            <Twitter size={16} />
+          <a href="#" className="p-2 rounded-full glass-card hover:text-[#2FD8FF] transition-colors" aria-label="Message">
+            <MessageSquare size={16} />
           </a>
         </div>
       </div>
