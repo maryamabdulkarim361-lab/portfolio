@@ -205,12 +205,20 @@ areas:
 ## Hero Section
 
 <p align="center">
-  <img src="./assets/portfolio-preview.png" alt="Portfolio Hero" width="900">
+  <img src="./public/portfolio-preview.png" alt="Portfolio Hero" width="900">
 </p>
 
 ## Selected Projects
 
-Add a screenshot of the project section here:
+<p align="center">
+  <img src="./public/projects.png" alt="projects" width="900">
+</p>
+
+## Technology Section
+
+<p align="center">
+  <img src="./public/technology.png" alt="technology" width="900">
+</p>
 
 ```markdown
-![Selected Projects](./assets/projects.png)
+
