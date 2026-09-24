@@ -205,7 +205,7 @@ areas:
 ## Hero Section
 
 <p align="center">
-  <img src="./public/portfolio-preview.png" alt="Portfolio Hero" width="900">
+  <img src="./public/HERO.png" alt="Portfolio Hero" width="900">
 </p>
 
 ## Selected Projects
