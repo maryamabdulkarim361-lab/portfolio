@@ -1,7 +1,7 @@
 # ⚡ Maryam Abdul Karim — AI • Software • Cybersecurity
 
 <p align="center">
-  <img src="./assets/portfolio-preview.png" alt="Maryam Abdul Karim Portfolio" width="100%">
+  <img src="./public/HERO.png" alt="Maryam Abdul Karim Portfolio" width="100%">
 </p>
 
 <h3 align="center">
